@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "m1-0126-wd301"
+assignment: "cms-blogposts"
+owner:
+  username: "jamiejy927"
+  id: 253347247
+  accepted_at: "2026-09-09T03:16:30Z"
+source:
+  owner: "Cornerstone-CICCC"
+  owner_id: 113148113
+  repo: "wad-301-cms-blogposts"
+  branch: "main"
