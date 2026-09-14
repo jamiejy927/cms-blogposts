@@ -1,5 +1,8 @@
 # Next.js + Contentful Blog Assignment
 
+## 🚀 Live Demo
+- **Deployed Site:** https://blogposts-delta.vercel.app/
+
 ## Objective
 Build a responsive blog application using the Next.js App Router and Contentful CMS. 
 
